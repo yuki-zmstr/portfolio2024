@@ -1,0 +1,49 @@
+{
+    "entries": [
+        {
+            "header": "Youtube playlists",
+            "content": [
+                {
+                    "title": "MIT 18.06 Linear Algebra, Prof. Gilbert Strang",
+                    "link": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8"
+                }
+            ]
+        },
+        {
+            "header": "Youtube videos",
+            "content": [
+                {
+                    "title": "Grant Sanderson, Harvey Mudd Commencement Speech 2024",
+                    "link": "https://www.youtube.com/watch?v=W3I3kAg2J7w"
+                }
+            ]
+        },
+        {
+            "header": "Articles",
+            "content": [
+                {
+                    "title": "The Math Behind \"The Curse of Dimensionality\", Maxime Wolf",
+                    "link": "https://medium.com/towards-data-science/the-math-behind-the-curse-of-dimensionality-cf8780307d74"
+                }
+            ]
+        },
+        {
+            "header": "Courses at NUS that I've enjoyed",
+            "content": [
+                {
+                    "title": "CS2040C Data Structures and Algorithms, Prof. Steven Halim, AY21-22 Sem 1",
+                    "link": "https://nusmods.com/courses/CS2040C/data-structures-and-algorithms"
+                }
+            ]
+        },
+        {
+            "header": "Learning goals",
+            "content": [
+                {
+                    "title": "Math 421 Abstract Algebra, Prof. James Cook, Liberty University",
+                    "link": "https://www.youtube.com/playlist?list=PLBY4G2o7DhF0JCgapYKrqibGaJuvV4Gkb"
+                }
+            ]
+        }
+    ]
+}
