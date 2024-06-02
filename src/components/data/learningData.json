@@ -6,6 +6,10 @@
                 {
                     "title": "MIT 18.06 Linear Algebra, Prof. Gilbert Strang",
                     "link": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8"
+                },
+                {
+                    "title": "MIT 18.065 Matrix Methods In Data Analysis, Signal Processing, and Machine Learning, Prof. Gilbert Strang",
+                    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k"
                 }
             ]
         },
@@ -15,7 +19,12 @@
                 {
                     "title": "Grant Sanderson, Harvey Mudd Commencement Speech 2024",
                     "link": "https://www.youtube.com/watch?v=W3I3kAg2J7w"
+                },
+                {
+                    "title": "A programming language to heal the planet together: Julia | Alan Edelman |",
+                    "link": "https://www.youtube.com/watch?v=qGW0GT1rCvs"
                 }
+
             ]
         },
         {
@@ -31,9 +40,26 @@
             "header": "Courses at NUS that I've enjoyed",
             "content": [
                 {
+                    "title": "CS1010E Programming Methodology, Prof. Alan Ho, AY20-21 Sem 1",
+                    "link": "https://nusmods.com/courses/CS1010E/programming-methodology",
+                    "subcontent": "I took this course in my first semester at NUS. This was during the Covid era, when classes were delivered online. Although I had no prior programming experience, I found that I could follow the lectures alright. They started with data types and assigning variables, then moved on to algorithm controls like loops. I recall one of the problems in the final exam was to implement John Conway's \"Game of Life\". I was quite satisfied when I got the expected result in the terminal. By the way, try searching \"conway's game of life\" on Google."
+                },
+                {
                     "title": "CS2040C Data Structures and Algorithms, Prof. Steven Halim, AY21-22 Sem 1",
-                    "link": "https://nusmods.com/courses/CS2040C/data-structures-and-algorithms"
+                    "link": "https://nusmods.com/courses/CS2040C/data-structures-and-algorithms",
+                    "subcontent": "Classes were still delivered online because of Covid. Nonetheless, Prof. Steven Halim made the learning experience fun and effective by using online tools, such as his famous visualgo.net and Discord for offline consultations. In this course I learned about common data structures like lists and trees, and sorting and searching algorithms. I recall Prof. Halim adopted a more application focused approach in his assignments, and would emphasize effective usage of data structures and algorithm flow to solve problems, instead of having students implement their own trees like how other instructors did. (Although I did feel I should do so at least once in my lifetime) One fond memory I have is the Practical Coding Exam, where we were given two coding tasks to complete in two hours. The student beside me had several years of competitive programming experience and left the venue after 30 minutes."
+                },
+                {
+                    "title": "IE4210 Operations Research II, Prof. Zhang Junyu, AY22-23 Sem 2",
+                    "link": "https://nusmods.com/courses/IE4210/operations-research-ii",
+                    "subcontent": "This course introduces problem classes and methods in operations research, such as linear programs, integer programs, the simplex method, and dynamic programming. I had a more mathematical treatment of the subject compared to the prerequisite. I also enjoyed the weekly MATLAB assignments (primarily because the professor was nice enough to check my solution before submission). I recall I would visit his office to ask about the homework/class material, but the professor would extend the discussion to deeper concepts. I really enjoyed these unexpected sidetracks as well."
+                },
+                {
+                    "title": "MA1100 Basic Discrete Mathematics, Prof. Chin Chee Whye, AY23-24 Sem 1",
+                    "link": "https://nusmods.com/courses?q=MA1100",
+                    "subcontent": "This is a course for freshmen in the Department of Mathematics, and serves as an introduction to the fundamental language and concepts of higher level mathematics. This was my first proof-based course. I enjoyed the process of using definitions to construct arguments and gain insights about mathematical objects like sets and numbers. This course inspired me to take more courses in Math, and also to learn on my own, as (fortunately or unfortunately) I was already in my final year."
                 }
+
             ]
         },
         {
