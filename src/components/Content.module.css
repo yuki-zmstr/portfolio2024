@@ -1,0 +1,45 @@
+.navbar {
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.navbar button {
+    background: none;
+    border: none;
+    color: #333;
+    font-weight: bold;
+    font-size: medium;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    position: relative;
+}
+
+.navbar button:hover,
+.navbar button.active {
+    color: #1a73e8;
+}
+
+.navbar button::after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 0;
+    background: #1a73e8;
+    /* Blue color for the underline */
+    transition: width 0.3s;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navbar button.active::after {
+    width: 100%;
+}
+
+.navbar button:hover::after {
+    width: 100%;
+}
