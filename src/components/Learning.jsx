@@ -9,8 +9,11 @@ export default function Learning() {
                     <h4>{entry.header}</h4>
                     <ul>
                         {entry.content.map((item, j) => (
-                            <li key={j}>{item.title}&nbsp;
+                            <li key={j}><i>{item.title}</i>&nbsp;
                                 <a href={item.link} target="_blank">link</a>
+                                <ul>
+                                {"subcontent" in item && <li>{item.subcontent}</li>}
+                                </ul>
                             </li>))}
                     </ul>
 
