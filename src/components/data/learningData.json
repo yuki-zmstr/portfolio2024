@@ -4,12 +4,37 @@
             "header": "Youtube playlists",
             "content": [
                 {
-                    "title": "MIT 18.06 Linear Algebra, Prof. Gilbert Strang",
+                    "title": "MIT 18.06 Linear Algebra, Prof. Gilbert Strang, MIT",
                     "link": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8"
                 },
                 {
-                    "title": "MIT 18.065 Matrix Methods In Data Analysis, Signal Processing, and Machine Learning, Prof. Gilbert Strang",
+                    "title": "MIT 18.065 Matrix Methods In Data Analysis, Signal Processing, and Machine Learning, Prof. Gilbert Strang, MIT",
                     "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k"
+                },
+                {
+                    "title": "Math 131 Real Analysis, Prof. Francis Su, Harvey Mudd College",
+                    "link": "https://www.youtube.com/playlist?list=PL0E754696F72137EC"
+                },
+                {
+                    "title": "EE364A Convex Optimization, Prof. Stephen Boyd, Convex Optimization",
+                    "link": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h"
+                }
+            ]
+        },
+        {
+            "header": "Books",
+            "content": [
+                {
+                    "title":"Introduction to Linear Optimization, Dimitris Bertsimas, John N. Tsitsiklis",
+                    "link": "https://www.amazon.sg/Introduction-Linear-Optimization-Dimitris-Bertsimas/dp/1886529191"
+                },
+                {
+                    "title":"Differential Equations with Applications and Historical Notes, George F. Simmons",
+                    "link": "https://www.amazon.com/Differential-Equations-Applications-Historical-Mathematics/dp/1498702597"
+                },
+                {
+                    "title":"Linear Algebra and Learning from Data, Gilbert Strang",
+                    "link": "https://math.mit.edu/~gs/learningfromdata/"
                 }
             ]
         },
@@ -21,7 +46,7 @@
                     "link": "https://www.youtube.com/watch?v=W3I3kAg2J7w"
                 },
                 {
-                    "title": "A programming language to heal the planet together: Julia | Alan Edelman |",
+                    "title": "Alan Edelman on Julia, at TEDxMIT 2020",
                     "link": "https://www.youtube.com/watch?v=qGW0GT1rCvs"
                 }
 
