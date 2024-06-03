@@ -36,10 +36,11 @@
     transform: translateX(-50%);
 }
 
-.navbar button.active::after {
+
+.navbar button:hover::after {
     width: 100%;
 }
 
-.navbar button:hover::after {
+.navbar button.active::after {
     width: 100%;
 }

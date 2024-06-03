@@ -46,16 +46,16 @@ export default function Content() {
         <div>
             <nav className={styles.navbar}>
                 <button
-                    className={activeComponent === 'Career' ? 'active' : ''}
+                    className={activeComponent === 'Career' ? styles.active : ''}
                     onClick={() => setActiveComponent('Career')}>Career</button>
                 <button
-                    className={activeComponent === 'Learning' ? 'active' : ''}
+                    className={activeComponent === 'Learning' ? styles.active : ''}
                     onClick={() => setActiveComponent('Learning')}>Learning</button>
                 <button
-                    className={activeComponent === 'Philosophy' ? 'active' : ''}
+                    className={activeComponent === 'Philosophy' ? styles.active : ''}
                     onClick={() => setActiveComponent('Philosophy')}>Philosphy</button>
                 <button
-                    className={activeComponent === 'Contact' ? 'active' : ''}
+                    className={activeComponent === 'Contact' ? styles.active : ''}
                     onClick={() => setActiveComponent('Contact')}>CV/Contact</button>
             </nav>
             <div>
