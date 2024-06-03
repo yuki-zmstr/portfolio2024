@@ -56,10 +56,29 @@
                 },
                 {
                     "title": "MA1100 Basic Discrete Mathematics, Prof. Chin Chee Whye, AY23-24 Sem 1",
-                    "link": "https://nusmods.com/courses?q=MA1100",
+                    "link": "https://nusmods.com/courses/MA1100/basic-discrete-mathematics",
                     "subcontent": "This is a course for freshmen in the Department of Mathematics, and serves as an introduction to the fundamental language and concepts of higher level mathematics. This was my first proof-based course. I enjoyed the process of using definitions to construct arguments and gain insights about mathematical objects like sets and numbers. This course inspired me to take more courses in Math, and also to learn on my own, as (fortunately or unfortunately) I was already in my final year."
+                },
+                {
+                    "title": "HS2301 Financial Literacy and Numeracy, Prof. Wandrille Gaultier, et. al, AY23-24 Sem 1",
+                    "link": "https://nusmods.com/courses/HS2301/financial-literacy-and-numeracy",
+                    "subcontent": "This course introduces basic concepts in finance and accounting. I took this course for general knowledge, wanting to learn at least the common terms and ideas in finance. I learned about investment strategies and options, accounting, risk assessment, and towards the end, blockchain and cryptocurrency mining. I recall trying pretty hard to understand the implications of long/short positions and how you would hedge against the respective risks (I've never been good with cash calculation, probably because I get confused thinking in multiple perspectiev. Don't get me started on splitting bills...) But I got somewhere eventually. I also enjoyed the team presentation - my team did an overview of the 2008 GFC."
+                },
+                {
+                    "title": "CS2113 Software Engineering & Object-Oriented Programming, Prof. Akshay Narayan, AY23-24 Sem 2",
+                    "link": "https://nusmods.com/courses/CS2113/software-engineering-object-oriented-programming",
+                    "subcontent": "This course introduces students to various aspects of professional software engineering, from project management models to key software engineering principles. The highlight of the course is the team project. Over 5 weeks, a team of 4 students will collaborate on a CLI app coded in Java, using GitHub for version control. I like this course as it a proves wrong people who claim that the hard and soft skills of professional software engineering cannot be learnt in school. I was one of those people, until I took this course. Above all, I learned the importance of not reinventing the wheel, especially regarding coding principles (Separation of Concerns, SLAP, coding patterns, etc). Indeed, several professional coders have set forth principles they felt was important based on their experience, and as a novice in software development, it helps to follow those, which have proof or backing that will turn out effective."
+                },
+                {
+                    "title": "MA2101 Linear Algebra II, Prof. Brett Mcinnes, AY23-24 Sem 2",
+                    "link": "https://nusmods.com/courses/MA3233/combinatorics-and-graphs-ii",
+                    "subcontent": "This course featured a more conceptual exploration of Linear Algebra compared to the basic Linear Algebra course, which is more computation-heavy (e.g. find a basis of a vector space, compute the determinant of a matrix, etc) One fun point of this course is that the intructor downplays the importance of the determinant. In the prerequisite course I recall determinants were introduced using a crazy formula involving polynomials, then concepts like invertibility followed from there (or at least interconnected in some way). In contrast the instructor (and the author of the reference book used, \"Linear Algebra Done Right\" by Sheldon Axler) left the discussion of determinants to the very last, after an exposition of linear transformations, dual vectors and spaces, and billinear forms. In fact, the Spectral Theorem was discussed even before determinants. In this course, a matrix's determinant emerges from studying the properties of the linear transformation it represents (under ANY basis, therefore 'well-defined' => 'determine' => 'determinant'). I also enjoyed the topic of quaternions and how an extra degree of freedom in expressing a vector in 3D solves problems like the Gimbal Lock problem."
+                },
+                {
+                    "title": "MA3233 Combinatorics and Graphs II, Prof. Huang Hao, AY23-24 Sem 2",
+                    "link": "https://nusmods.com/courses/MA3233/combinatorics-and-graphs-ii",
+                    "subcontent": "This course discusses basic concepts of graph theory (not so much of combinatorics, despite the course title). I learned about different families of graphs, such as bipartite graphs and trees, and graph parameters like connectivity and chromatic number. Ultimately I think the purpose of the course is to uncover properties of different graphs - for example, can we give a bound of a certain parameter of a given graph or a family of them? It was a proof-based course, and for me it was at times challenging to understand, let alone think of myself, some of the proofs of theorems. The course also lets students present their proofs of problems during tutorials. I did that twice - it was truly a nerve wrecking experience, as I was put under the scrutiny of the entire class. It just felt different from the usual presentations I did in other classes. Overall I think it was a experience I couldn't get in a course in Engineering."
                 }
-
             ]
         },
         {
