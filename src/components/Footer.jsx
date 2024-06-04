@@ -11,7 +11,11 @@ export default function Footer() {
                 To achieve the SPA experience, I ultimately chose React. At the least I got to understand what Astro is trying to achieve compared to SPA frameworks. The source code for this project can be found&nbsp;
                 <a href="https://github.com/yuki-zmstr/portfolio2024" target="_blank">here</a>.
             </p>
-            <p>Previous Websites</p>
+            <p>Previous Websites:&nbsp;
+                <a href="https://yuki-zmstr.github.io/en/" target="_blank" >version 1</a>
+                &nbsp;&nbsp;
+                <a href="https://yuki-zmstr.github.io/portfolio2022/" target="_blank" >version 2</a>
+            </p>
             <p>&copy; Yukihide Takahashi 2024</p>
         </>)
 }
