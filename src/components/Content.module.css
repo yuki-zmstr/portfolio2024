@@ -26,6 +26,9 @@
     outline: none; /* Remove default focus outline */
 }
 
+.nav-buttons button:hover {
+    cursor: pointer;
+}
 .navbar button:focus {
     outline: none; /* Remove focus outline */
 }
@@ -48,7 +51,6 @@
     left: 50%;
     transform: translateX(-50%);
 }
-
 
 .navbar button:hover::after {
     width: 100%;
