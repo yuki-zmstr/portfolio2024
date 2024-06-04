@@ -26,23 +26,6 @@
             ]
         },
         {
-            "header": "Books",
-            "content": [
-                {
-                    "title":"Introduction to Linear Optimization, Dimitris Bertsimas, John N. Tsitsiklis",
-                    "link": "https://www.amazon.sg/Introduction-Linear-Optimization-Dimitris-Bertsimas/dp/1886529191"
-                },
-                {
-                    "title":"Differential Equations with Applications and Historical Notes, George F. Simmons",
-                    "link": "https://www.amazon.com/Differential-Equations-Applications-Historical-Mathematics/dp/1498702597"
-                },
-                {
-                    "title":"Linear Algebra and Learning from Data, Gilbert Strang",
-                    "link": "https://math.mit.edu/~gs/learningfromdata/"
-                }
-            ]
-        },
-        {
             "header": "Youtube videos",
             "content": [
                 {
@@ -60,6 +43,48 @@
                 {
                     "title": "Advice from the Top 1% of Software Engineer, Jean Lee",
                     "link": "https://www.youtube.com/watch?v=2JmfDKOyQcI&ab_channel=EO"
+                }
+            ]
+        },
+        {
+            "header": "YouTube channels",
+            "content": [
+                {
+                    "title":"MIT OpenCourseWare",
+                    "link": "https://www.youtube.com/@mitocw7",
+                    "subcontent": "Lots of lecture series. Free knowledge!"
+                },
+                {
+                    "title":"Stanford Online",
+                    "link": "https://www.youtube.com/@stanfordonline",
+                    "subcontent": "Same as above."
+                },
+                {
+                    "title":"3Blue1Brown",
+                    "link": "https://www.youtube.com/@3blue1brown",
+                    "subcontent": "Explanation of math-y concepts with pretty animations."
+                },
+                {
+                    "title":"Fireship",
+                    "link": "https://www.youtube.com/@Fireship",
+                    "subcontent": "Latest tech news (gossip)."
+                }
+            ]
+        },
+        {
+            "header": "Books",
+            "content": [
+                {
+                    "title":"Introduction to Linear Optimization, Dimitris Bertsimas, John N. Tsitsiklis",
+                    "link": "https://www.amazon.sg/Introduction-Linear-Optimization-Dimitris-Bertsimas/dp/1886529191"
+                },
+                {
+                    "title":"Differential Equations with Applications and Historical Notes, George F. Simmons",
+                    "link": "https://www.amazon.com/Differential-Equations-Applications-Historical-Mathematics/dp/1498702597"
+                },
+                {
+                    "title":"Linear Algebra and Learning from Data, Gilbert Strang",
+                    "link": "https://math.mit.edu/~gs/learningfromdata/"
                 }
             ]
         },
