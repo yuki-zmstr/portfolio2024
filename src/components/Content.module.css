@@ -66,6 +66,6 @@
         margin: 5px 5px; /* Reduce margin */
     }
     .navbar button:first-child {
-        margin-left: 20%; /* Adjust margin for the first button on smaller screens */
+        margin-left: 5%; /* Adjust margin for the first button on smaller screens */
     }
 }
