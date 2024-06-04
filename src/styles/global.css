@@ -63,21 +63,6 @@ body {
     display: unset;
 }
 
-@media screen and (min-width: 636px) {
-    .nav-buttons {
-        margin-left: 5em;
-        display: block;
-        position: static;
-        width: auto;
-        background: none;
-    }
-
-    .nav-buttons button {
-        display: inline-block;
-        padding: 15px 20px;
-    }
-}
-
 @media (prefers-color-scheme: light) {
     /* :root {
         color: #213547;
