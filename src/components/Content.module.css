@@ -3,6 +3,12 @@
     display: flex;
     justify-content: center;
     padding: 10px 0;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    white-space: nowrap; /* Prevent buttons from wrapping to the next line */
+}
+
+.navbar::-webkit-scrollbar {
+    display: none; /* Hide scrollbar in Webkit-based browsers (Chrome, Safari) */
 }
 
 .navbar button {
@@ -15,6 +21,13 @@
     margin: 0 10px;
     cursor: pointer;
     position: relative;
+    flex-shrink: 0; /* Prevent buttons from shrinking */
+    -webkit-tap-highlight-color: transparent; /* Remove tap highlight on mobile */
+    outline: none; /* Remove default focus outline */
+}
+
+.navbar button:focus {
+    outline: none; /* Remove focus outline */
 }
 
 .navbar button:hover,
@@ -43,4 +56,14 @@
 
 .navbar button.active::after {
     width: 100%;
+}
+
+@media (max-width: 600px) {
+    .navbar button {
+        padding: 8px 10px; /* Reduce padding */
+        margin: 5px 5px; /* Reduce margin */
+    }
+    .navbar button:first-child {
+        margin-left: 20%; /* Adjust margin for the first button on smaller screens */
+    }
 }
