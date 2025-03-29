@@ -4,7 +4,7 @@ import "../styles/header.css";
 export default function Header() {
     return (
         <>
-            <h2>Yukihide T.</h2>
+            <h2 className="name">Yukihide T.</h2>
             <div className="intro">
                 <p>
                     Hi, my name is Yukihide, and I'm a software developer working in Tokyo, Japan. Welcome to my portfolio page.
