@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 import { Marked } from "marked";
 import { markedHighlight } from "marked-highlight";
 import hljs from 'highlight.js';
@@ -29,9 +29,16 @@ export default function MarkdownPage() {
   }, [location.pathname]);
 
   return (
+    <>
     <div
       className="max-w-4xl mx-auto mt-8"
       dangerouslySetInnerHTML={{ __html: content }}
     />
-  );
+    <div className="mt-12">
+        <Link to="/" className="text-blue-600 underline hover:text-blue-800">
+          ← Back to Home
+        </Link>
+    </div>
+    </>
+)
 }
