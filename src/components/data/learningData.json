@@ -1,6 +1,16 @@
 {
     "entries": [
         {
+            "header": "Fluent Python - Clear, Consise, and Effective Programming",
+            "content": [
+                {
+                    "title": "Chapter 1 - The Python Data Model",
+                    "link": "/fluentPython/ch1.md"
+                }
+            
+            ]    
+        },
+        {
             "header": "Youtube playlists",
             "content": [
                 {
