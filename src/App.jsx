@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import ScrollToTop from "./components/ScrollToTop";
 import Header from "./components/Header";
 import Content from "./components/Content";
 import MarkdownPage from "./components/MarkdownPage";
@@ -8,6 +9,7 @@ import "./styles/global.css";
 function App() {
   return (
     <Router>
+        <ScrollToTop />
         <Routes>
             <Route path="/" element={
                 <><Header />
